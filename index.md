@@ -4,6 +4,7 @@ Och så kör vi!
 
 Voit tarkastella karttaa joko
 - koko ruudun tilassa: [linkki](kartta.html)
+
 tai
 - karttaupotuksen kautta:
 

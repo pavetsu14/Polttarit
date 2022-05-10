@@ -2,6 +2,11 @@
 
 Och så kör vi!
 
-<iframe src="kartta.html" height="800" width="800"></iframe>
+Voit tarkastella karttaa joko
+1. koko ruudun tilassa: [linkki](kartta.html)
 
-Voit tarkastella karttaa myös [omana nettisivunaan](kartta.html).
+tai
+
+2. karttaupotuksen kautta:
+
+<iframe src="kartta.html" height="800" width="800"></iframe>

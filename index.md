@@ -2,6 +2,6 @@
 
 Och så kör vi!
 
-<iframe src="polttarit.html" height="500" width="500"></iframe>
+<iframe src="kartta.html" height="800" width="800"></iframe>
 
-Voit tarkastella karttaa [omana nettisivunaan](polttarit.html).
+Voit tarkastella karttaa [omana nettisivunaan](kartta.html).
